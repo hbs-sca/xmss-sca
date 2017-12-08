@@ -2,7 +2,7 @@
 We propose and implement a DPA on a SHA256 PRNG which is similar to the one proposed for W-OTS+ secret key generation within XMSS (https://datatracker.ietf.org/doc/draft-irtf-cfrg-xmss-hash-based-signatures/).
 
 
-We are currently referencing to this repo in a paper in submission to a venue that requires anonymous submissions. This is why we also keep this anonymous. 
+We are currently referring to this code in a paper in submission to a venue that requires anonymous submissions. This is why we also keep this anonymous. 
 
 
 ## Dependencies
