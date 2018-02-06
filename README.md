@@ -1,8 +1,8 @@
 # DPA on a SHA256 PRNG
 We propose and implement a DPA on a SHA256 PRNG which is similar to the one proposed for W-OTS+ secret key generation within XMSS (https://datatracker.ietf.org/doc/draft-irtf-cfrg-xmss-hash-based-signatures/).
 
-
-We are currently referring to this code in a paper in submission to a venue that requires anonymous submissions. This is why we also keep this anonymous. 
+This work was accepted to COSADE 2018:
+Matthias J. Kannwischer, Aymeric Genêt, Denis Butin, Juliane Krämer, and Johannes Buchmann, "Differential Power Analysis of XMSS and SPHINCS", COSADE 2018, Singapore (to appear)
 
 
 ## Dependencies
